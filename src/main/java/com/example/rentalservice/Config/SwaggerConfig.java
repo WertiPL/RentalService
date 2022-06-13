@@ -28,7 +28,7 @@ public class SwaggerConfig {
         return new ApiInfo("Rental Service API",
                 "Movie database",
                 "1.00",
-                "http://bykowski.pl",
+                "https://github.com/WertiPL/RentalService",
                 new Contact("Wiktor Rostkowski", "http://vvrw.eu", "wiktor@vvwi.eu"),
                 "GUI",
                 "",
